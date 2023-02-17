@@ -21,5 +21,5 @@ It's a simple game in which the computer chooses a number between a specified ra
 
 # Further options
 
-- Rewrite the Menu Chooser using an enumeration to represent difficulty levels.
+<strike>- Rewrite the Menu Chooser using an enumeration to represent difficulty levels.</strike> - DONE
 - Add game option for "who guess the number". The player can pick a number and the computer must guess what it is.
