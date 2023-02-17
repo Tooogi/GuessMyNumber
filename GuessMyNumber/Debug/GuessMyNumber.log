@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\havra\source\repos\GuessMyNumber\GuessMyNumber\Main.cpp(27,10): warning C4102: 'Default': unreferenced label
+  GuessMyNumber.vcxproj -> C:\Users\havra\source\repos\GuessMyNumber\Debug\GuessMyNumber.exe
